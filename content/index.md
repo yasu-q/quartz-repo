@@ -6,6 +6,6 @@ Notes from my main obsidian vault minus confidential stuff.
 - [[MATH340 Home]]
 
 ***
-have a nice day
+have a nice day. test
 
 ![[Pasted image 20241029134827.png]]
