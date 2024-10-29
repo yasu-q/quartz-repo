@@ -1,9 +1,15 @@
+---
+title: Home
+---
+
 ### Welcome
 
-Notes from my main obsidian vault minus confidential stuff. 
+Notes from my main obsidian vault minus confidential stuff
+
+- [Made with quartz](https://quartz.jzhao.xyz/)
 
 ## Class notes
-- [[MATH340 Home]]
+- [[MATH340 main]]
 
 ***
 have a nice day

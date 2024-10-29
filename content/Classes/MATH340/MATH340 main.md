@@ -1,3 +1,7 @@
+---
+title: MATH340
+---
+
 Notes organized into subjects by week
 
 ### Week 1
