@@ -1,7 +1,0 @@
-- cross products
-- one-dimensional motion
-	- frames
-		- stat - S
-		- moving - S'
-	- cord. systems see [[drawing]]
-	- basic calc-based calculations (der + int)
