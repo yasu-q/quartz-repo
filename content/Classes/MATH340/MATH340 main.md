@@ -2,7 +2,7 @@
 title: MATH340
 ---
 
-Notes organized into subjects by week
+Notes organized into subjects by week. 
 
 ### Week 1
 - [[1.1 Sets]]
@@ -42,9 +42,14 @@ Notes organized into subjects by week
 - [[9.2 Lagrange multipliers]]
 ### Week 10
 - [[10.1 Classifying critical points]]
+### Week 11
+- [[11.1 Area, volume, and double integrals]]
 ### Extras
 - [[Identity matrix]]
 - [[Finding tangent planes]]
 ***
 have a nice day
+
 ![[Pasted image 20241029141319.png]]
+
+Credit to my professor Dr. Roohollah Ebrahimian for all these wonderful notes
