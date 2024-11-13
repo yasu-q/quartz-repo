@@ -44,6 +44,8 @@ Notes organized into subjects by week.
 - [[10.1 Classifying critical points]]
 ### Week 11
 - [[11.1 Area, volume, and double integrals]]
+### Week 12
+- [[12.1 Change of variables]]
 ### Extras
 - [[Identity matrix]]
 - [[Finding tangent planes]]
