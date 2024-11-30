@@ -46,6 +46,14 @@ Notes organized into subjects by week.
 - [[11.1 Area, volume, and double integrals]]
 ### Week 12
 - [[12.1 Change of variables]]
+- [[12.2 Applications of integration]]
+- [[12.3 Scalar line integrals]]
+- [[12.4 Vector line integrals]]
+### Week 13
+- [[13.1 Green's theorem]]
+- [[13.2 Conservative vector fields]]
+- [[13.3 Parametrized surfaces]]
+- [[13.4 Scalar and vector surface integrals]]
 ### Extras
 - [[Identity matrix]]
 - [[Finding tangent planes]]
