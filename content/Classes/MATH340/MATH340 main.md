@@ -54,6 +54,9 @@ Notes organized into subjects by week.
 - [[13.2 Conservative vector fields]]
 - [[13.3 Parametrized surfaces]]
 - [[13.4 Scalar and vector surface integrals]]
+### Week 14
+- [[14.1 Stokes's and Gauss' Theorems]]
+- [[14.2 Curl and divergence]]
 ### Extras
 - [[Identity matrix]]
 - [[Finding tangent planes]]
