@@ -7,9 +7,10 @@ title: Home
 Notes from my main obsidian vault minus confidential stuff
 
 - [Made with quartz](https://quartz.jzhao.xyz/)
-
+	
 ## Class notes
 - [[MATH340 main|MATH340]]
+- [[MATH341 main|MATH341]]
 
 ***
 have a nice day
