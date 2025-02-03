@@ -11,4 +11,4 @@ Hub for MATH341 notes. Also see [[MATH340 main|MATH340]].
 - [[1.4 Determinants]]
 ### Week 2
 - [[2.1 Change of coordinates]]
-- [[2.2 Eigenpairs and Diagonilization]]
+- [[2.2 Eigenpairs and Diagonalization]]
